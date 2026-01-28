@@ -1,4 +1,4 @@
-# Todo Application - Spring Boot Backend
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0100e876-4df3-4779-846c-bdedb92d9e10" /># Todo Application - Spring Boot Backend
 
 A RESTful API backend for the Todo application built with Spring Boot, JPA, and H2 Database.
 
@@ -118,3 +118,12 @@ mvn test
 - **H2 Database** - In-memory database
 - **Maven** - Build tool
 - **Java 17** - Programming language
+
+
+output screenshot:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52a091d1-9e4e-4795-9bb8-58a49a7426f4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/244eb560-9751-458f-b33f-075db13c9d7d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28685a3d-4566-4c55-8e3b-cd9a398d0f4b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ace42f7d-cfe4-41f2-8d57-fec10ee175d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d13ee59c-14ab-4ce9-8d8d-64152f9a8738" />
+
