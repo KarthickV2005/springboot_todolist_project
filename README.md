@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0100e876-4df3-4779-846c-bdedb92d9e10" /># Todo Application - Spring Boot Backend
+
 
 A RESTful API backend for the Todo application built with Spring Boot, JPA, and H2 Database.
 
